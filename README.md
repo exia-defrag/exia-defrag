@@ -1,9 +1,9 @@
 [Work in progress]
 - 👋 Hi, I’m @exia-defrag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web application development
+- 🌱 I’m currently learning Angular and Python
+- 💞️ I’m not looking for any collaborations yet
+- 📫 No method of contact as of now
 
 <!---
 exia-defrag/exia-defrag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
