@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @exia-defrag
+- 👋 Hi, I’m Exia
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning Angular and Python
 - 💞️ I’m not looking for any collaborations yet
