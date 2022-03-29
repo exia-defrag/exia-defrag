@@ -1,4 +1,4 @@
-[Work in progress]
+
 - 👋 Hi, I’m @exia-defrag
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning Angular and Python
